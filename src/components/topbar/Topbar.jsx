@@ -14,7 +14,7 @@ export default function Topbar(props) {
         <div className = {al}>
             <div className="wrapper">
                 <div className="left">
-                    <a href = "#intro" className = "logo">Genius.</a>
+                    <a href = "#intro" className = "logo">Portfolio.</a>
                     <div className="itemContainer">
                        <Person className = "icon"/>
                         <span>+91 30303030330</span>  
